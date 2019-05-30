@@ -1,5 +1,5 @@
-n=int(input())
-if(n%4==0 and n%100!=0 or n%400==0):
+kdr=int(input())
+if(kdr%4==0 and kdr%100!=0 or kdr%400==0):
     print("yes")
 else:
     print("no")
