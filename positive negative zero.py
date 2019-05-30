@@ -1,7 +1,7 @@
-n=int(input())
-if(n>0):
+kdr=int(input())
+if(kdr>0):
  print("Positive")
-elif(n==0):
+elif(kdr==0):
  print("Zero")
 else:
  print("Negative")
