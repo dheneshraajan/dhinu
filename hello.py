@@ -1,3 +1,3 @@
-n=int(input())
-for i in range(n):
+kdr=int(input())
+for i in range(kdr):
 print("Hello")
