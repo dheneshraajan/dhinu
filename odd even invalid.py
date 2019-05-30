@@ -1,7 +1,7 @@
-n=int(input())
-if(n>0 and n%2==0):
+kdr=int(input())
+if(kdr>0 and kdr%2==0):
     print("Even")
-elif(n>0 and n%2!=0):
+elif(kdr>0 and kdr%2!=0):
     print("Odd")
 else:
     print("invalid")
