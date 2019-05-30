@@ -1,7 +1,7 @@
-n=input()
-if(n=='A' or n=='a' or n=='E' or n=='e' or n=='I' or n=='i' or n=='O' or n=='o' or n=='U' or n=='u'):
+kdr=input()
+if(kdr=='A' or kdr=='a' or kdr=='E' or kdr=='e' or kdr=='I' or kdr=='i' or kdr=='O' or kdr=='o' or kdr=='U' or kdr=='u'):
     print("Vowel")
-elif(n>='a' and n<='z'):
+elif(kdr>='a' and kdr<='z'):
     print("Consonant")
 else:
     print("invalid")
